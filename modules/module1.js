@@ -1,4 +1,4 @@
-const prefix = 'http://localhost:3000/';
+const prefix = 'http://localhost:3001/';
 const newsUrl = prefix + 'new';
 const commentsUrl = prefix + 'comments';
 
